@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-"A"
-
-=======
-<<<<<<< Updated upstream
-"A"  
-"B"  
-=======
 "A"
 "B"
 "C"
 "D"
->>>>>>> Stashed changes
->>>>>>> 8621b64 (Cambios en historial.txt)
+
